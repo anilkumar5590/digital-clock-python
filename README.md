@@ -22,9 +22,6 @@ This is a simple digital clock application created using Python's Tkinter librar
 - The `label.pack(anchor="center")` places the label widget in the center of the window.
 - Finally, `mainloop()` runs the Tkinter event loop to display the GUI and handle user events.
 
-## Preview
-[Checkout Here](https://weekday-finder-anilkumar.streamlit.app/)
-
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumarkonathala/)
 
